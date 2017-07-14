@@ -1,5 +1,271 @@
 *{}
 
+.intro-content-footer span {
+    color: black;
+}
+
+.col-sm-12.infofooter {
+    color: white;
+    font-size: 20px;
+    color: #c7c7c7;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.cardlayoutft .card {
+    text-align: center;
+}
+
+.cardlayoutft img.card-img-top {
+    text-align: center;
+}
+
+.cardlayoutft h4.card-title {
+    text-align: center;
+    font-weight: 800;
+}
+
+.container.cardlayoutft {}
+
+h4.card-title {}
+
+.intro-content-footer {
+    text-align: center;
+}
+
+.intro-content {
+    text-align: center;
+}
+
+.cardlayoutnk .card {
+    background-color: grey;
+}
+
+.cardlayoutnk img.card-img-top {
+    color: white;
+}
+
+  .gapbacsi{
+    background-color: #32d245;
+    border-bottom: 3px #146b2f solid;
+  }
+  .cardlayoutnk .card {
+      background-color: rgba(0, 173, 255, 0.67);
+      text-align: center;
+      padding: 20px;
+      margin-bottom: 20px;
+      margin-left: 20px;
+  }
+
+
+.cardlayoutnk button.btn.btn-primary-outline {
+    border-radius: 0px;
+    background: transparent;
+    border-color: white;
+    color: white;
+    font-weight: bold;
+}
+
+.cardlayoutnk button.btn.btn-primary-outline:hover {
+    background-color: white;
+    color: #00adff;
+}
+
+.cardlayoutnk h4.card-title {
+    color: white;
+    font-weight: 400;
+}
+
+.cardlayoutnk .card {
+    background-color: rgba(222, 199, 33, 0.66);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+  .cardlayoutxh .card {
+      background-color: rgba(0, 173, 255, 0.67);
+      text-align: center;
+      padding: 20px;
+      margin-bottom: 20px;
+      margin-left: 20px;
+  }
+
+
+.cardlayoutxh button.btn.btn-primary-outline {
+    border-radius: 0px;
+    background: transparent;
+    border-color: white;
+    color: white;
+    font-weight: bold;
+}
+
+.cardlayoutxh button.btn.btn-primary-outline:hover {
+    background-color: white;
+    color: #00adff;
+}
+
+.cardlayoutxh h4.card-title {
+    color: white;
+    font-weight: 400;
+}
+
+.cardlayoutxh .card {
+    background-color: rgba(40, 136, 16, 0.89);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+  .cardlayoutpk .card {
+      background-color: rgba(0, 173, 255, 0.67);
+      text-align: center;
+      padding: 20px;
+      margin-bottom: 20px;
+      margin-left: 20px;
+  }
+
+
+.cardlayoutpk button.btn.btn-primary-outline {
+    border-radius: 0px;
+    background: transparent;
+    border-color: white;
+    color: white;
+    font-weight: bold;
+}
+
+.cardlayoutpk button.btn.btn-primary-outline:hover {
+    background-color: white;
+    color: #00adff;
+}
+
+.cardlayoutpk h4.card-title {
+    color: white;
+    font-weight: 400;
+}
+
+.cardlayoutpk .card {
+    background-color: rgba(255, 32, 166, 0.43);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+  .cardlayout .card {
+      background-color: rgba(0, 173, 255, 0.67);
+      text-align: center;
+      padding: 20px;
+      margin-bottom: 20px;
+      margin-left: 20px;
+  }
+
+
+.cardlayout button.btn.btn-primary-outline {
+    border-radius: 0px;
+    background: transparent;
+    border-color: white;
+    color: white;
+    font-weight: bold;
+}
+
+.cardlayout button.btn.btn-primary-outline:hover {
+    background-color: white;
+    color: #00adff;
+}
+
+.cardlayout h4.card-title {
+    color: white;
+    font-weight: 400;
+}
+
+.cardlayout .card {
+    background-color: rgba(0, 173, 255, 0.67);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.slide .col-sm-12 {
+    text-align: center;
+}
+
+.intro-content span {
+    text-align: center;
+    color: white;
+}
+
+.intro-content-footer span {
+    color: black;
+}
+
+.introdes {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.intro-content {
+    width: 100%;
+}
+
+.intro-content {}
+
+.contact-now p {
+    padding-left: 25px;
+}
+
+.ct-button {
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+p.contact-now {
+}
+
+.infopage {
+    padding: 50px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.intro-content p {
+    color: white;
+    font-size: 43px;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.introdes-footer {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.intro-content-footer p {
+    color: black;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 40px;
+}
+
+p.logo-info {
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 800;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 html{
       color: #fff;
       overflow-x: hidden;
@@ -7,24 +273,25 @@ html{
   }
 body{
     height: 100%;
-    margin: 0;
     font-family: 'Roboto', sans-serif;
 }
 .header{
       background-image: url(../img/bg.jpg);
       height: 100%;
+      width: 100%;
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
+      position: relative;
 
   }
 .intro{
-        margin-top: -3px;
         background-image: url(../img/intro.jpg);
         height: 100%;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
+        position: relative;
 
     }
 .namkhoa{
@@ -33,7 +300,7 @@ body{
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-
+        position: relative;
         }
 .phukhoa{
         background-image: url(../img/pk.png);
@@ -41,6 +308,7 @@ body{
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
+        position: relative;
         }
 .benhxahoi{
         background-image: url(../img/x-h.png);
@@ -48,37 +316,57 @@ body{
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
+        position: relative;
+        }
+.ngoaikhoa{
+        background-image: url(../img/bg-ngkhoa.jpg);
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        }
+.doingu{
+        background-image: url(../img/doingu.png);
+        height: 768px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        }
+.footer{
+        background-image: url(../img/footer.png);
+        height: 216px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
         }
 .logo{
       width: 100%;
       text-align: center;
+      padding-bottom: 15%;
   }
 
 .text{
     color: #fff;
     background-color: rgba(44, 62, 80,0.5);
-    top: 20%;
-    padding: 50px;
+    padding: 10px;
 }
 
 .text h1{
   font-size: 22px;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bold;
+  text-align: center;
 }
-
-.logo-info{
-  margin-top: 30px;
-  text-align: justify;
-  font-size: 18px;
-  font-weight: 400;
+.logo-info p{
+  font-size: 10px;
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .contact-now{
   font-size: 20px;
-  margin-left: 10px;
-  margin-top: 30px;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
@@ -100,11 +388,230 @@ body{
 }
 
 .infopage{
-  margin-top: 15%;
-  padding: 100px;
+
 }
 
-.arrow{
+.arrowdiv{
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
   text-align: center;
-  margin-top: 5%;
+}
+
+.information{
+
+}
+.cardlayout{
+  margin-top: 20px;
+}
+/*SLIDER*/
+.slide{
+  margin-top: 300px;
+}
+.slider-main {
+  height: 65vh;
+  position: relative;
+  background-color: #888;
+}
+@media screen and (max-width: 778px) {
+  .slider-main {
+    height: 35vh;
+  }
+}
+@media screen and (max-width: 690px) {
+  .slider-main {
+    height: 55vh;
+  }
+}
+@media screen and (max-width: 480px) {
+  .slider-main {
+    height: 180px;
+  }
+}
+.slider-main__item {
+  width: 100%;
+  height: 65vh;
+  position: absolute;
+  z-index: 10;
+  opacity: 0;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+@media screen and (max-width: 778px) {
+  .slider-main__item {
+    height: 35vh;
+  }
+}
+@media screen and (max-width: 690px) {
+  .slider-main__item {
+    height: 55vh;
+  }
+}
+@media screen and (max-width: 480px) {
+  .slider-main__item {
+    height: 180px;
+  }
+}
+.slider-main__item.active {
+  z-index: 11;
+  opacity: 1;
+}
+.slider-home {
+  position: relative;
+  list-style-type: none;
+  padding: 0;
+}
+.slider-arrows {
+  position: absolute;
+  z-index: 15;
+  border: 0;
+  background: none;
+  font-size: 45px;
+  color: #5a5a5a;
+  cursor: pointer;
+  padding: 10px;
+  top: calc(50% - 55px);
+}
+@media screen and (max-width: 480px) {
+  .slider-arrows {
+    top: calc(90% - 55px);
+  }
+}
+.slider-arrows:hover {
+  color: #888;
+}
+.slider-arrows--prev {
+  left: 20px;
+}
+@media screen and (max-width: 480px) {
+  .slider-arrows--prev {
+    left: 0;
+  }
+}
+.slider-arrows--next {
+  right: 20px;
+}
+@media screen and (max-width: 480px) {
+  .slider-arrows--next {
+    right: 0;
+  }
+}
+/*SIDER*/
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  font-family: 'Gudea', sans-serif;
+  font-weight: normal
+}
+body {
+  background: #eee
+}
+h1 {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 60px;
+  color: #333
+}
+h1 a {
+  font-size: 14px;
+  color: #aaa;
+  background: #fff;
+  border-radius: 5px;
+  padding: 2px 5px;
+  border: 1px solid #dcdcdc;
+  text-decoration: none
+}
+h1 a:hover {
+  color: #0fe0ba;
+  text-decoration: underline
+}
+.slider {
+  width: 100%;
+  max-width: 750px;
+  padding: 0 50px;
+  margin: 25px auto 0;
+  height: 350px;
+  position: relative;
+}
+.slider ul, .slider ul li {
+  width: 100%;
+  height: 100%
+}
+.slider ul {
+  position: relative;
+  overflow: hidden;
+  border-radius: 15px
+}
+.slider ul li {
+  position: absolute;
+  top: 0;
+  left: -100%;
+  background-size: cover; /* semon #f98686 */
+  background-position: center;
+  color: #fff;
+  font-family: serif;
+}
+.slider ul li:first-of-type {
+  background-image: url("../img/sl1.jpg")
+}
+.slider ul li:nth-of-type(2) {
+  background-image: url("../img/sl2.jpg")
+}
+.slider ul li:nth-of-type(3) {
+  background-image: url("../img/sl3.jpg")
+}
+.slider .controll {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 44%;
+  border-bottom: 3px solid #333;
+  border-left: 3px solid #333;
+  cursor: pointer;
+  color: #333
+}
+.slider .controll:first-of-type {
+  transform: rotate(45deg);
+  left: 20px
+}
+.slider .controll:last-of-type {
+  transform: rotate(225deg);
+  right: 20px
+}
+.slider .controll:hover, .slider .controll.active {
+  border-color: #f98686 /* rose */
+}
+.slider ol {
+  text-align: center;
+  padding-top: 10px
+}
+.slider ol li {
+  display: inline-block;
+  margin-right: 5px;
+}
+.slider ol .fa {
+  font-size: 20px;
+  color: #333;
+  cursor: pointer;
+  font-weight: normall
+}
+.slider ol li:hover .fa:before, .slider ol li.active .fa:before {
+  content: "\f111"
+}
+/* .slider ul li.active {
+  z-index: 999;
+  left: 0
+} */
+@media(max-width: 490px) {
+  h1 {font-size: 45px}
+}
+@media(max-width: 350px) {
+  h1 {font-size: 25px}
 }
