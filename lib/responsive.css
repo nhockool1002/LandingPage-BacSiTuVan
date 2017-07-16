@@ -1,0 +1,39 @@
+/*Ipad ngang(1024 x 768)*/
+@media screen and (max-width: 1024px){
+  body{
+    width: 100%;
+  }
+ #menu{
+   display: none;
+ }
+.cardlayout .card{
+  width: 270px;
+  height: 200px;
+  margin-top: -30px;
+}
+.cardlayout{
+  text-align: center;
+}
+.cardlayout h4.card-title{
+  color: white;
+  font-size: 12px;
+}
+.cardlayout button.btn.btn-primary-outline{
+  width: 120px;
+}
+/*Ipad dọc(768 x 1024)*/
+@media screen and (max-width: 768px){
+
+}
+/*Tablet nhỏ(480 x 640)*/
+@media screen and (max-width: 480px){
+
+}
+/*Iphone(480 x 640)*/
+@media screen and (max-width: 320px){
+
+}
+/*Smart phone nhỏ*/
+@media screen and (max-width: 240px){
+
+}

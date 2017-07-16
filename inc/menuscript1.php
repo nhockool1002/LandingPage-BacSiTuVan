@@ -1,13 +1,13 @@
 <script>
     $(document).ready(function(){
-      $(".sub-menu").hide();
-      $(".sub-menu1").hide();
-      $(".sub-menu2").hide();
-      $(".sub-menu3").hide();
-      $(".sub-menu4").hide();
-      $(".sub-menu5").hide();
-      $(".sub-menu6").hide();
-      $(".sub-menu7").hide();
+      $(".sub-menu").hide("fast");
+      $(".sub-menu1").hide("fast");
+      $(".sub-menu2").hide("fast");
+      $(".sub-menu3").hide("fast");
+      $(".sub-menu4").hide("fast");
+      $(".sub-menu5").hide("fast");
+      $(".sub-menu6").hide("fast");
+      $(".sub-menu7").hide("fast");
 
       $(".hoverli").click(function(){
         var id = $(this).data("id");
@@ -63,5 +63,75 @@
         }
         }
       });
+
+      $(".hoverli").click(function(){
+        var id = $(this).data("id");
+        if(id == 0){
+            $('html,body').animate({
+            scrollTop: $(".intro").offset().top
+            }, 1000);
+        }
+        if(id == 1){
+            $('html,body').animate({
+            scrollTop: $(".namkhoa").offset().top
+            }, 1000);
+        }
+        if(id == 2){
+            $('html,body').animate({
+            scrollTop: $(".phukhoa").offset().top
+            }, 1000);
+        }
+        if(id == 3){
+            $('html,body').animate({
+            scrollTop: $(".benhxahoi").offset().top
+            }, 1000);
+        }
+        if(id == 4){
+            $('html,body').animate({
+            scrollTop: $(".ngoaikhoa").offset().top
+            }, 1000);
+        }
+      });
+
+      $(".arrow").click(function(){
+        var id = $(this).data("id");
+        if(id ==0){
+            $('html,body').animate({
+            scrollTop: $(".intro").offset().top
+            }, 1000);
+        }
+        if(id == 1){
+            $('html,body').animate({
+            scrollTop: $(".namkhoa").offset().top
+            }, 1000);
+        }
+        if(id == 2){
+            $('html,body').animate({
+            scrollTop: $(".phukhoa").offset().top
+            }, 1000);
+        }
+        if(id == 3){
+            $('html,body').animate({
+            scrollTop: $(".benhxahoi").offset().top
+            }, 1000);
+        }
+        if(id == 4){
+            $('html,body').animate({
+            scrollTop: $(".ngoaikhoa").offset().top
+            }, 1000);
+        }
+        if(id == 5){
+            $('html,body').animate({
+            scrollTop: $(".footer").offset().top
+            }, 1000);
+        }
+        if(id == 6){
+          $('html,body').animate({
+          scrollTop: $(".header").offset().top
+        }, 2000);
+        }
+      });
+
 });
+
 </script>

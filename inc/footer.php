@@ -17,4 +17,11 @@
         </div>
       </div>
   </div>
+  <div class="container-fluid arrowdiv">
+  <div class="col-sm-12">
+    <div class="arrow" data-id="6">
+      <img src="img/totop.png" alt="">
+    </div>
+  </div>
+  </div>
 </div>

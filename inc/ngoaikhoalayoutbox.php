@@ -42,8 +42,18 @@
       <div class="col-sm-12">
           <div class="card-deck-wrapper">
             <div class="card-deck">
-              <div class="col-sm-4">
+              <div class="col-sm-2">
 
+              </div>
+              <div class="col-sm-4">
+                <div class="card">
+                  <img class="card-img-top" src="img/n1.png">
+                  <div class="card-block">
+                    <h4 class="card-title">CHỈNH HÌNH DƯƠNG VẬT</h4>
+                    <a href="http://tuvan.mayo.com.vn/lr/chatpre.aspx?id=kuk38256576&lng=en&p=http://dakhoa.mayo.com.vn&e=seo&r=&rf1=https%3A//www.google.com&rf2=.vn/&cid=1499315641952512948071&sid=1499315641952512948071" role="button" target="_blank">
+<button type="button" class="btn btn-primary-outline">CLICK HERE</button></a>
+                  </div>
+                </div>
               </div>
               <div class="col-sm-4">
                 <div class="card">
@@ -55,7 +65,8 @@
                   </div>
                 </div>
               </div>
-              <div class="col-sm-4">
+              <div class="col-sm-2">
+
               </div>
               </div>
             </div>

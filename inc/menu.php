@@ -3,11 +3,11 @@
     <div class="sidemenu">
     <div id="menu">
       <ul>
-          <li class="hoverli" data-id="0"><a href="#intro"><center><img src="img/m1.png" alt=""><br>GIỚI THIỆU</a></center></li>
-          <li class="hoverli" data-id="1"><a href="#namkhoa"><center><img src="img/m2.png" alt=""><br>NAM KHOA</a></center></li>
-          <li class="hoverli" data-id="2"><a href="#phukhoa"><center><img src="img/m3.png" alt=""><br>PHỤ KHOA</a></center></li>
-          <li class="hoverli" data-id="3"><a href="#benhxahoi"><center><img src="img/m4.png" alt=""><br>BỆNH XÃ HỘI</a></center></li>
-          <li class="hoverli" data-id="4"><a href="#ngoaikhoa"><center><img src="img/m5.png" alt=""><br>NGOẠI KHOA</a></center></li>
+          <li class="hoverli" data-id="0"><center><img src="img/m1.png" alt=""><br>GIỚI THIỆU</center></li>
+          <li class="hoverli" data-id="1"><center><img src="img/m2.png" alt=""><br>NAM KHOA</center></li>
+          <li class="hoverli" data-id="2"><center><img src="img/m3.png" alt=""><br>PHỤ KHOA</center></li>
+          <li class="hoverli" data-id="3"><center><img src="img/m4.png" alt=""><br>BỆNH XÃ HỘI</center></li>
+          <li class="hoverli" data-id="4"><center><img src="img/m5.png" alt=""><br>NGOẠI KHOA</center></li>
           <li class="hoverli" data-id="5"><center><img src="img/m6.png" alt=""><br>QUY TRÌNH</center></li>
           <li class="hoverli" data-id="6"><center><img src="img/m7.png" alt=""><br>ĐẶT HẸN</center></li>
           <li class="hoverli" data-id="7"><center><img src="img/m8.png" alt=""><br>ĐỊA CHỈ</center></li>
