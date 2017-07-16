@@ -6,10 +6,15 @@
  #menu{
    display: none;
  }
+.namkhoa .gapbacsi{
+  margin-bottom: 20px;
+  margin-right: 30px;
+}
 .cardlayout .card{
   width: 270px;
   height: 200px;
   margin-top: -30px;
+  margin-left: 0px;
 }
 .cardlayout{
   text-align: center;
@@ -18,8 +23,49 @@
   color: white;
   font-size: 12px;
 }
-.cardlayout button.btn.btn-primary-outline{
+.phukhoa .gapbacsi{
+  margin-right: 100px;
+  margin-bottom: 20px;
+}
+
+.cardlayoutpk .card{
+  margin-left: 0px;
+  margin-top: -20px;
+}
+.cardlayoutxh .card{
+  height: 200px;
+  margin-top: -20px;
+}
+.benhxahoi .gapbacsi{
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+.cardlayoutnk .card{
+  margin-top: -30px;
+  margin-left: -10px;
+}
+.ngoaikhoa .gapbacsi{
+  margin-bottom: 20px;
+}
+
+.cardlayoutft img.card-img-top{
   width: 120px;
+}
+.footer p{
+  font-size: 15px;
+}
+.intro-content-footer p{
+  font-size: 18px;
+}
+.footer .arrow img{
+  margin-top: -160px;
+}
+.infopage .text.col-sm-5{
+  width: 500px;
+  margin-left: -40px;
+}
+.infofooter{
+  height: 150px;
 }
 /*Ipad dọc(768 x 1024)*/
 @media screen and (max-width: 768px){

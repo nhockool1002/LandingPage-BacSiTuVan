@@ -192,6 +192,7 @@
 .cardlayoutft h4.card-title {
     text-align: center;
     font-weight: 800;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container.cardlayoutft {}
@@ -432,13 +433,14 @@ p.contact-now {
 
 p.logo-info {
     font-size: 20px;
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: justify;
     margin-left: 20px;
     margin-right: 20px;
+
 }
 
 html{
@@ -518,6 +520,9 @@ body{
         background-size: cover;
         position: relative;
         }
+.footer .arrow img{
+      margin-top:-80px;
+}
 .logo{
       width: 100%;
       text-align: center;
@@ -537,9 +542,11 @@ body{
   text-align: center;
 }
 
-.infopage h1 {
-    color: white;
-    font-size: 30px;
+.infopage h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
 }
 .logo-info p{
   font-size: 10px;

@@ -122,7 +122,7 @@
         }
         if(id == 5){
             $('html,body').animate({
-            scrollTop: $(".footer").offset().top
+            scrollTop: $(".doingu").offset().top
             }, 1000);
         }
         if(id == 6){
