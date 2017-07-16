@@ -492,7 +492,7 @@ body{
         }
 .doingu{
         background-image: url(../img/doingu.png);
-        height: 768px;
+        height: 775px;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -500,7 +500,7 @@ body{
         }
 .footer{
         background-image: url(../img/footer.png);
-        height: 216px;
+        height: 255px;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
