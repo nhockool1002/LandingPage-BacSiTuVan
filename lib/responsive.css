@@ -3,6 +3,15 @@
   body{
     width: 100%;
   }
+.text{
+  margin-left: -20px;
+}
+.logo{
+  z-index: 2;
+}
+.menutop{
+  display: inline;
+  }
  #menu{
    display: none;
  }
@@ -10,10 +19,12 @@
   margin-bottom: 20px;
   margin-right: 30px;
 }
+.header .intro-content img{
+  margin-top: 70px;
+}
 .cardlayout .card{
   width: 270px;
-  height: 200px;
-  margin-top: -30px;
+  height: 180px;
   margin-left: 0px;
 }
 .cardlayout{
@@ -30,18 +41,19 @@
 
 .cardlayoutpk .card{
   margin-left: 0px;
-  margin-top: -20px;
+  height: 180px;
 }
 .cardlayoutxh .card{
-  height: 200px;
-  margin-top: -20px;
+  height: 180px;
+  margin-top: 20px;
 }
 .benhxahoi .gapbacsi{
   margin-top: -10px;
   margin-bottom: 10px;
 }
 .cardlayoutnk .card{
-  margin-top: -30px;
+  height: 200px;
+  margin-top: -10px;
   margin-left: -10px;
 }
 .ngoaikhoa .gapbacsi{
@@ -60,26 +72,74 @@
 .footer .arrow img{
   margin-top: -160px;
 }
-.infopage .text.col-sm-5{
-  width: 500px;
-  margin-left: -40px;
-}
+
 .infofooter{
   height: 150px;
 }
-/*Ipad dọc(768 x 1024)*/
-@media screen and (max-width: 768px){
-
 }
-/*Tablet nhỏ(480 x 640)*/
-@media screen and (max-width: 480px){
+/*Ipad dá»c(768 x 1024)*/
+@media screen and (max-width: 768px){
+  body{
+    width: 100%;
+  }
+.cardlayoutft img.card-img-top{
+  width: 30px;
+  background-color: black;
+}
+.cardlayoutft h4.card-title{
+  font-size: 15px;
+}
+.infopage .text.col-sm-12 {
+  margin-left: -20px;
+  margin-bottom: 300px;
+}
 
+.cardlayout .card{
+  margin-top: -10px;
+  margin-left: 30px;
+  height: 185px;
+}
+.cardlayout{
+  padding-left: 30px;
+}
+.cardlayout .col-sm-6{
+  margin-top: 10px;
+  margin-left: -10px;
+}
+
+.cardlayoutpk .card{
+  margin-top: -10px;
+}
+
+.cardlayoutxh .card{
+  margin-top: -10px;
+  height: 200px;
+}
+.cardlayoutnk .card{
+  margin-top: 10px;
+  height: 190px;
+}
+.cardlayoutpk .col-sm-6{
+  margin-bottom: 30px;
+}
+
+.phukhoa .gapbacsi{
+  margin-left: 100px;
+}
+}
+/*Tablet nhá»(480 x 640)*/
+@media screen and (max-width: 480px){
+  body{
+    width: 100%;
+  }
 }
 /*Iphone(480 x 640)*/
 @media screen and (max-width: 320px){
-
+  body{
+    width: 100%;
+  }
 }
-/*Smart phone nhỏ*/
+/*Smart phone nhá»*/
 @media screen and (max-width: 240px){
 
 }

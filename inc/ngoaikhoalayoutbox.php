@@ -3,7 +3,7 @@
     <div class="col-sm-12">
         <div class="card-deck-wrapper">
           <div class="card-deck">
-            <div class="col-sm-4">
+            <div class="col-lg-4 col-xs-6 col-sm-6 col-md-4">
               <div class="card">
                 <img class="card-img-top" src="img/ngk1.png">
                 <div class="card-block">
@@ -13,7 +13,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-lg-4 col-xs-6 col-sm-6 col-md-4">
               <div class="card">
                 <img class="card-img-top" src="img/ngk2.png">
                 <div class="card-block">
@@ -23,7 +23,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-lg-4 col-xs-6 col-sm-6 col-md-4">
               <div class="card">
                 <img class="card-img-top" src="img/ngk3.png">
                 <div class="card-block">
@@ -36,16 +36,16 @@
             </div>
           </div>
         </div>
-    </div>
+    <!-- </div>
     <br><br>
-    <div class="row">
+    <div class="row"> -->
       <div class="col-sm-12">
           <div class="card-deck-wrapper">
             <div class="card-deck">
-              <div class="col-sm-2">
+              <div class="col-lg-2 col-xs-6 col-sm-6 col-md-2">
 
               </div>
-              <div class="col-sm-4">
+              <div class="col-lg-4 col-xs-6 col-sm-6 col-md-4">
                 <div class="card">
                   <img class="card-img-top" src="img/n1.png">
                   <div class="card-block">
@@ -55,7 +55,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-sm-4">
+              <div class="col-lg-4 col-xs-6 col-sm-6 col-md-4">
                 <div class="card">
                   <img class="card-img-top" src="img/ngk4.png">
                   <div class="card-block">
@@ -65,7 +65,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-sm-2">
+              <div class="col-lg-2 col-xs-6 col-sm-6 col-md-2">
 
               </div>
               </div>

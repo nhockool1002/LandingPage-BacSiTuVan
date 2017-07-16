@@ -132,6 +132,36 @@
         }
       });
 
+      $("#navgt").click(function(){
+        $('html,body').animate({
+        scrollTop: $(".intro").offset().top
+      }, 2000);
+      });
+
+      $("#navnk").click(function(){
+        $('html,body').animate({
+        scrollTop: $(".namkhoa").offset().top
+      }, 2000);
+      });
+
+      $("#navpk").click(function(){
+        $('html,body').animate({
+        scrollTop: $(".phukhoa").offset().top
+      }, 2000);
+      });
+
+      $("#navbxh").click(function(){
+        $('html,body').animate({
+        scrollTop: $(".benhxahoi").offset().top
+      }, 2000);
+      });
+
+      $("#navngk").click(function(){
+        $('html,body').animate({
+        scrollTop: $(".ngoaikhoa").offset().top
+      }, 2000);
+      });
+
 });
 
 </script>

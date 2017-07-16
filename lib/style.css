@@ -1,14 +1,57 @@
 *{}
 
-
-.infopage .text.col-sm-5 {
-    margin-left: 100px;
+.cardlayout .card {
+    height: 218px;
 }
+
+.card {}
+
+nav.navbar.navbar-inverse.navbar-fixed-top.menutop {
+    background-color: #7ebcf1;
+}
+
+a.navbar-brand {
+}
+
+#menutop a {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: 4px;
+}
+
+#menutop p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+#menutop a:hover {
+    color: #2a488e;
+    cursor: pointer;
+}
+
+#menutop p:hover {
+    color: #2a488e;
+}
+
+div#menutop {
+    background-color: #7ebcf1;
+    border-color: #1398c3;
+}
+
 
   .sidemenu{
     z-index: 999999;
     position: fixed;
     left: 0;
+  }
+
+  .menutop{
+    background-color: blue;
+    display: none;
   }
   #menu{
     text-align: center;
@@ -252,6 +295,7 @@ h4.card-title {}
     padding: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
+    height: 250px;
 }
   .cardlayoutxh .card {
       background-color: rgba(0, 173, 255, 0.67);
@@ -286,6 +330,7 @@ h4.card-title {}
     padding: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
+    height: 250px;
 }
   .cardlayoutpk .card {
       background-color: rgba(0, 173, 255, 0.67);
@@ -320,6 +365,7 @@ h4.card-title {}
     padding: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
+    height: 250px;
 }
 
   .cardlayout .card {
@@ -355,6 +401,8 @@ h4.card-title {}
     padding: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
+    margin-top: 13px;
+    height: 250px;
 }
 
 .slide .col-sm-12 {
@@ -364,8 +412,8 @@ h4.card-title {}
 .intro-content span {
     text-align: center;
     color: white;
-    font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 500;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: larger;
     text-shadow: 2px 1px 2px #000000;
 }
@@ -433,7 +481,7 @@ p.contact-now {
 
 p.logo-info {
     font-size: 20px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-weight: lighter;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -469,6 +517,9 @@ body{
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
+        -webkit-background-size:cover;
+        -moz-background-size:cover;
+        -o-background-size:cover;
         position: relative;
 
     }
@@ -533,6 +584,7 @@ body{
     color: #fff;
     background-color: rgba(44, 62, 80,0.5);
     padding: 10px;
+    margin-left: 120px;
 }
 
 .text h1{

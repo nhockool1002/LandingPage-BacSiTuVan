@@ -11,6 +11,7 @@
     <div class="header">
       <?php
         // START HEADER PAGE
+        require_once("inc/menutop.php");
         require_once("inc/menu.php");
         require_once("inc/logo.php");
         require_once("inc/contactbox.php");
