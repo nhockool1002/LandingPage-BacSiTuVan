@@ -1,0 +1,48 @@
+/*Ipad dá»c(768 x 1024)*/
+@media screen and (max-width: 768px){
+  body{
+    width: 100%;
+  }
+.cardlayoutft img.card-img-top{
+  width: 80px;
+}
+.cardlayoutft h4.card-title{
+  font-size: 15px;
+}
+.infopage .text.col-sm-12 {
+  margin-left: -20px;
+}
+
+.cardlayout .card{
+  margin-top: -10px;
+  margin-left: 30px;
+  height: 185px;
+}
+.cardlayout{
+  padding-left: 30px;
+}
+.cardlayout .col-sm-6{
+  margin-top: 10px;
+  margin-left: -10px;
+}
+
+.cardlayoutpk .card{
+  margin-top: -10px;
+}
+
+.cardlayoutxh .card{
+  margin-top: -10px;
+  height: 200px;
+}
+.cardlayoutnk .card{
+  margin-top: 10px;
+  height: 190px;
+}
+.cardlayoutpk .col-sm-6{
+  margin-bottom: 30px;
+}
+
+.phukhoa .gapbacsi{
+  margin-left: 100px;
+}
+}

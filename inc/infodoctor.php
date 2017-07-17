@@ -4,7 +4,7 @@
           <div class="container-fluid">
             <div class="col-sm-12">
               <div class="intro-content-footer">
-                <p>ĐỘI NGŨ BÁC SĨ <BR> HƠN 20 NĂM KINH NGHIỆM</p>
+                <p clas="doingu-title">ĐỘI NGŨ BÁC SĨ <BR> HƠN 20 NĂM KINH NGHIỆM</p>
                 <div class="introdes-footer">
                   <div class="container">
                     <div class="row">

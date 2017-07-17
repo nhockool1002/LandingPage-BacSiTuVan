@@ -1,145 +1,144 @@
-/*Ipad ngang(1024 x 768)*/
-@media screen and (max-width: 1024px){
-  body{
-    width: 100%;
-  }
-.text{
-  margin-left: -20px;
-}
-.logo{
-  z-index: 2;
-}
-.menutop{
-  display: inline;
-  }
- #menu{
-   display: none;
- }
-.namkhoa .gapbacsi{
-  margin-bottom: 20px;
-  margin-right: 30px;
-}
-.header .intro-content img{
-  margin-top: 70px;
-}
-.cardlayout .card{
-  width: 270px;
-  height: 180px;
-  margin-left: 0px;
-}
-.cardlayout{
-  text-align: center;
-}
-.cardlayout h4.card-title{
-  color: white;
-  font-size: 12px;
-}
-.phukhoa .gapbacsi{
-  margin-right: 100px;
-  margin-bottom: 20px;
-}
 
-.cardlayoutpk .card{
-  margin-left: 0px;
-  height: 180px;
-}
-.cardlayoutxh .card{
-  height: 180px;
-  margin-top: 20px;
-}
-.benhxahoi .gapbacsi{
-  margin-top: -10px;
-  margin-bottom: 10px;
-}
-.cardlayoutnk .card{
-  height: 200px;
-  margin-top: -10px;
-  margin-left: -10px;
-}
-.ngoaikhoa .gapbacsi{
-  margin-bottom: 20px;
-}
+/*Tablet nhÃ¡Â»Â(480 x 640)*/
 
-.cardlayoutft img.card-img-top{
-  width: 120px;
-}
-.footer p{
-  font-size: 15px;
-}
-.intro-content-footer p{
-  font-size: 18px;
-}
-.footer .arrow img{
-  margin-top: -160px;
-}
-
-.infofooter{
-  height: 150px;
-}
-}
-/*Ipad dá»c(768 x 1024)*/
-@media screen and (max-width: 768px){
-  body{
-    width: 100%;
-  }
-.cardlayoutft img.card-img-top{
-  width: 30px;
-  background-color: black;
-}
-.cardlayoutft h4.card-title{
-  font-size: 15px;
-}
-.infopage .text.col-sm-12 {
-  margin-left: -20px;
-  margin-bottom: 300px;
-}
-
-.cardlayout .card{
-  margin-top: -10px;
-  margin-left: 30px;
-  height: 185px;
-}
-.cardlayout{
-  padding-left: 30px;
-}
-.cardlayout .col-sm-6{
-  margin-top: 10px;
-  margin-left: -10px;
-}
-
-.cardlayoutpk .card{
-  margin-top: -10px;
-}
-
-.cardlayoutxh .card{
-  margin-top: -10px;
-  height: 200px;
-}
-.cardlayoutnk .card{
-  margin-top: 10px;
-  height: 190px;
-}
-.cardlayoutpk .col-sm-6{
-  margin-bottom: 30px;
-}
-
-.phukhoa .gapbacsi{
-  margin-left: 100px;
-}
-}
-/*Tablet nhá»(480 x 640)*/
 @media screen and (max-width: 480px){
   body{
     width: 100%;
   }
+  .header .intro-content img{
+    margin-top: 200px;
+    width: 120px;
+  }
+  .infopage h1{
+    font-size: 15px;
+  }
+  .infopage p{
+    font-size: 15px;
+  }
+  .contact-now p{
+    display: none;
+  }
+  .infopage .text.col-sm-12 {
+    margin-bottom: 0px;
+  }
+  .btn-contact{
+    margin-left: 70px;
+    margin-top: -30px;
+    font-size: 12px;
+    width: 100px;
+  }
+  .namkhoa .cardlayout .card{
+    width: 130px;
+    height: 170px;
+    margin-left: 0px;
+  }
+
+  .cardlayout h4.card-title{
+    font-size: 9px;
+    margin-top: 10px;
+    margin-right: 30px;
+  }
+
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 70px;
+    margin-left: 0px;
+  }
+
+  .namkhoa .cardlayout button.btn.btn-primary-outline{
+    margin-left: 0px;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 140px;
+    height: 170px;
+    margin-left: 0px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    font-size: 11px;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-right: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 70px;
+    margin-left: 0px;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    margin-left: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 140px;
+    height: 170px;
+    margin-left: 0px;
+    margin-top: -10px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    font-size: 11px;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-right: 30px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 50px;
+    margin-left: 0px;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    margin-left: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 140px;
+    height: 170px;
+    margin-left: 0px;
+    margin-top: -10px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    font-size: 11px;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-right: 30px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 50px;
+    margin-left: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    margin-left: 0px;
+  }
+
+  .cardlayoutft img.card-img-top{
+    margin-left: 0px;
+  }
+  .cardlayoutft h4.card-title{
+    margin-top: 0px;
+  }
 }
+/*test*/
+@media only screen and (max-width: 563px) {
+
+}
+
+@media only screen and (max-width: 369px) {
+  .header .intro-content img{
+    margin-top: 60px;
+  }
+}
+
 /*Iphone(480 x 640)*/
 @media screen and (max-width: 320px){
   body{
     width: 100%;
   }
-}
-/*Smart phone nhá»*/
-@media screen and (max-width: 240px){
 
+  .intro-content p{
+    display: none;
+  }
+
+
+
+
+}
+/*Smart phone nhÃ¡Â»Â*/
+@media screen and (max-width: 240px){
+  .intro-content p{
+    display: none;
+  }
 }

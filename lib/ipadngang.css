@@ -1,0 +1,80 @@
+/*Ipad ngang(1024 x 768)*/
+@media screen and (max-width: 1024px){
+  body{
+    width: 100%;
+  }
+.text{
+  margin-left: -20px;
+}
+.logo{
+  z-index: 2;
+}
+.menutop{
+  display: inline;
+  }
+ #menu{
+   display: none;
+ }
+.namkhoa .gapbacsi{
+  margin-bottom: 20px;
+  margin-right: 30px;
+}
+.header .intro-content img{
+  margin-top: 70px;
+  width: 150px;
+}
+.cardlayout .card{
+  width: 270px;
+  height: 180px;
+  margin-left: 0px;
+}
+.cardlayout{
+  text-align: center;
+}
+.cardlayout h4.card-title{
+  color: white;
+  font-size: 12px;
+}
+.phukhoa .gapbacsi{
+  margin-right: 100px;
+  margin-bottom: 20px;
+}
+
+.cardlayoutpk .card{
+  margin-left: 0px;
+  height: 180px;
+}
+.cardlayoutxh .card{
+  height: 180px;
+  margin-top: 20px;
+}
+.benhxahoi .gapbacsi{
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+.cardlayoutnk .card{
+  height: 200px;
+  margin-top: -10px;
+  margin-left: -10px;
+}
+.ngoaikhoa .gapbacsi{
+  margin-bottom: 20px;
+}
+
+.cardlayoutft img.card-img-top{
+  width: 120px;
+}
+.footer p{
+  font-size: 15px;
+}
+.intro-content-footer p{
+  font-size: 18px;
+}
+.footer .arrow img{
+  margin-top: -160px;
+}
+
+.infofooter{
+  height: 150px;
+}
+}

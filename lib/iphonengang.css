@@ -1,0 +1,2134 @@
+/*Iphone 680 Lanscape*/
+@media only screen and (max-width: 680px) {
+  body{
+    width: 100%;
+  }
+  .text{
+    display: none;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -10px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}
+/*Iphone 720 Lanscape*/
+@media only screen and (max-width: 740px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}/*Iphone 680 Lanscape*/
+@media only screen and (max-width: 680px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}
+/*Iphone 720 Lanscape*/
+@media only screen and (max-width: 740px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}/*Iphone 680 Lanscape*/
+@media only screen and (max-width: 680px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}
+/*Iphone 720 Lanscape*/
+@media only screen and (max-width: 740px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}/*Iphone 680 Lanscape*/
+@media only screen and (max-width: 680px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}
+/*Iphone 720 Lanscape*/
+@media only screen and (max-width: 740px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}/*Iphone 680 Lanscape*/
+@media only screen and (max-width: 680px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}
+/*Iphone 720 Lanscape*/
+@media only screen and (max-width: 740px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}/*Iphone 680 Lanscape*/
+@media only screen and (max-width: 680px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}
+/*Iphone 720 Lanscape*/
+@media only screen and (max-width: 740px) {
+  body{
+    width: 100%;
+  }
+  .intro-content p{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  .intro-content span{
+    font-size: 14px;
+  }
+  .namkhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -70px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .cardlayout h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .cardlayout button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .namkhoa .arrow img{
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  /*Phụ Khoa*/
+  .phukhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: -40px;
+    margin-left: 30px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-left: -160px;
+    margin-top: -15px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    margin-top: -44px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .phukhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Bệnh xã hội*/
+  .benhxahoi .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .benhxahoi .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+
+  /*Ngoại khoa*/
+  .ngoaikhoa .intro-content p{
+    margin-top: 55px;
+    margin-bottom: -40px;
+  }
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 230px;
+    height: 70px;
+    margin-top: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 45px;
+    margin-left: -160px;
+    margin-top: -5px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    margin-top: -50px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    width: 90px;
+    font-size: 10px;
+    margin-left: 30px;
+  }
+  .ngoaikhoa .arrow img{
+    width: 40px;
+    margin-left: 30px;
+  }
+  /*DOCTOR list*/
+  .cardlayoutft{
+    width: 100%;
+  }
+  .doingu{
+    width: 100%;
+  }
+  .doingu .intro-content-footer span{
+    display: none;
+  }
+  .intro-content-footer p{
+    margin-top: 55px;
+    margin-bottom: -30px;
+  }
+  .cardlayoutft img.card-img-top{
+      margin-left: -200px;
+      margin-bottom: 20px;
+      width: 55px;
+  }
+  .cardlayoutft h4.card-title{
+    font-size: 12px;
+    margin-top: -40px;
+  }
+
+}

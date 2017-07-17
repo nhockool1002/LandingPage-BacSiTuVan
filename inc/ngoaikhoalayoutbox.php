@@ -33,15 +33,15 @@
                 </div>
               </div>
             </div>
-            </div>
+            <!-- </div>
           </div>
-        </div>
+        </div> -->
     <!-- </div>
     <br><br>
     <div class="row"> -->
-      <div class="col-sm-12">
+      <!-- <div class="col-sm-12">
           <div class="card-deck-wrapper">
-            <div class="card-deck">
+            <div class="card-deck"> -->
               <div class="col-lg-2 col-xs-6 col-sm-6 col-md-2">
 
               </div>
