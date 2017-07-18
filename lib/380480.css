@@ -1,0 +1,195 @@
+/*
+@
+-- bacsituvanonline.vn
+-- templates and responsive by Kangtadragon
+-- This CSS for Small Mobile with size 380x480
+-- Give Credit if you use.Thank.
+*/
+
+@media screen and (max-width: 480px) and (min-width : 380px){
+  body{
+    width: 100%;
+  }
+  .header .intro-content img{
+    width: 200px;
+    margin-top: 90px;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .infopage .text.col-sm-12{
+    width: 100%;
+    height: 400px;
+  }
+  .infopage h1{
+    font-size: 19px;
+  }
+  p.logo-info{
+    font-size: 16px;
+    margin-top: -15px;
+  }
+  .contact-now p{
+    display: none;
+  }
+  .btn-contact{
+    width: 80px;
+    font-size: 12px;
+    margin-top: -85px;
+    margin-left: 150px;
+  }
+
+  /*INTRO 480 PIXELS CONFIG*/
+  .intro-content p{
+    font-size: 22px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+  }
+  .intro-content span{
+    font-size: 20px;
+  }
+
+  /*NAMKHOA 480 PIXELS CONFIG*/
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .namkhoa .intro-content p{
+    margin-bottom: -100px;
+  }
+  .namkhoa .cardlayout .card{
+    width: 160px;
+    margin-bottom: -5px;
+  }
+  .namkhoa .cardlayout .card-img-top{
+    width: 70px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-block{
+    width: 160px;
+    text-align: center;
+    margin-left: -20px;
+  }
+  .namkhoa .cardlayout h4.card-title{
+    font-size: 14px;
+    font-weight: bolder;
+    width: 160px;
+    height: 20px;
+  }
+  .namkhoa .cardlayout button.btn.btn-primary-outline{
+    font-size: 9px;
+    width: 80px;
+    height: 28px;
+    margin-top: 15px;
+  }
+
+  /*PHUKHOA 480 PIXELS CONFIG*/
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .intro-content p{
+    margin-bottom: -50px;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 160px;
+    margin-bottom: 10px;
+  }
+    .phukhoa .cardlayoutpk .card-img-top{
+    width: 70px;
+    margin-top: -20px;
+  }
+  .phukhoa .cardlayoutpk .card .card-block{
+    width: 160px;
+    text-align: center;
+    margin-left: -20px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    font-size: 14px;
+    font-weight: bolder;
+    width: 160px;
+    height: 20px;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    font-size: 9px;
+    width: 80px;
+    height: 28px;
+    margin-top: 15px;
+  }
+
+  /*BENHXAHOI 480 PIXELS CONFIG*/
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .intro-content p{
+    margin-bottom: -40px;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 160px;
+    margin-bottom: 21px;
+    margin-left: -10px;
+  }
+  .benhxahoi .cardlayoutxh .card-img-top{
+  width: 70px;
+  margin-top: -20px;
+}
+  .benhxahoi .cardlayoutxh .card .card-block{
+  width: 160px;
+  text-align: center;
+  margin-left: -20px;
+}
+  .benhxahoi .cardlayoutxh h4.card-title{
+  font-size: 14px;
+  font-weight: bolder;
+  width: 160px;
+  height: 20px;
+}
+.benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+  font-size: 9px;
+  width: 80px;
+  height: 28px;
+  margin-top: 15px;
+}
+
+/*NGOAIKHOA 480 PIXELS CONFIG*/
+.ngoaikhoa .intro-content span{
+  display: none;
+}
+.ngoaikhoa .intro-content p{
+  margin-bottom: -50px;
+}
+.ngoaikhoa .cardlayoutnk .card{
+  width: 160px;
+  height: 180px;
+  margin-bottom: 20px;
+  margin-left: -10px;
+}
+.ngoaikhoa .cardlayoutnk .card-img-top{
+  width: 70px;
+  margin-top: -20px;
+}
+.ngoaikhoa .cardlayoutnk .card .card-block{
+width: 160px;
+text-align: center;
+margin-left: -20px;
+}
+.ngoaikhoa .cardlayoutnk h4.card-title{
+  font-size: 14px;
+  font-weight: bolder;
+  width: 160px;
+  height: 20px;
+}
+.ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+  font-size: 9px;
+  width: 80px;
+  height: 28px;
+  margin-top: 15px;
+}
+
+
+
+
+
+
+
+}

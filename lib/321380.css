@@ -1,0 +1,186 @@
+/*
+@
+-- bacsituvanonline.vn
+-- templates and responsive by Kangtadragon
+-- This CSS for Iphone5(S) with size 300x320
+-- Give Credit if you use.Thank.
+*/
+
+@media screen and (max-width: 400px) and (min-width : 325px){
+  body{
+    width: 100%;
+  }
+  .header .intro-content img{
+  width: 180px;
+  }
+  .infopage{
+    display: none;
+  }
+  .gapbacsi{
+    display: none;
+  }
+  .intro-content span{
+    font-size: 19px;
+  }
+  .slideinpage{
+    display: none;
+  }
+  .intro .intro-content p{
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight:  bolder;
+  }
+  /*NAMKHOA 320 PIXELS CONFIG*/
+  .namkhoa .intro-content p{
+    font-size: 22px;
+    margin-top: 50px;
+    margin-bottom: -60px;
+  }
+  .namkhoa .intro-content span{
+    display: none;
+  }
+  .namkhoa .cardlayout .card{
+    width: 110px;
+    height: 133px;
+    margin-top: -12px;
+  }
+  .namkhoa .cardlayout .card .card-img-top{
+    width: 50px;
+    margin-top: -20px;
+  }
+  .namkhoa .cardlayout .card .card-block{
+    width: 110px;
+    text-align: center;
+    margin-left: -20px;
+  }
+  .namkhoa .cardlayout h4.card-title{
+    font-size: 14px;
+    text-align: center;
+    font-weight: bolder;
+    width: 110px;
+    height: 20px;
+  }
+  .namkhoa .cardlayout button.btn.btn-primary-outline{
+    font-size: 9px;
+    width: 80px;
+    height: 28px;
+  }
+  /*PHUKHOA 320 PIXELS CONFIG*/
+  .phukhoa .intro-content span{
+    display: none;
+  }
+  .phukhoa .intro-content p{
+    font-size: 22px;
+    margin-top: 50px;
+    width: 300px;
+    margin-left: -50px;
+    margin-bottom: -50px;
+  }
+  .phukhoa .cardlayoutpk .card{
+    width: 110px;
+    height: 133px;
+    margin-bottom: 7px;
+  }
+  .phukhoa .cardlayoutpk .card .card-img-top{
+    width: 50px;
+    margin-top: -20px;
+  }
+  .phukhoa .cardlayoutpk .card .card-block{
+    width: 110px;
+    text-align: center;
+    margin-left: -21px;
+  }
+  .phukhoa .cardlayoutpk h4.card-title{
+    font-size: 14px;
+    text-align: center;
+    font-weight: bolder;
+    width: 110px;
+    height: 20px;
+  }
+  .phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    font-size: 9px;
+    width: 80px;
+    height: 28px;
+  }
+
+  /*BENHXAHOI 320 PIXELS CONFIG*/
+  .benhxahoi .intro-content span{
+    display: none;
+  }
+  .benhxahoi .intro-content p{
+    font-size: 22px;
+    margin-top: 50px;
+    width: 300px;
+    margin-left: -9px;
+    margin-bottom: -50px;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    width: 110px;
+    height: 133px;
+    margin-bottom: 17px;
+    margin-left: 2px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-img-top{
+    width: 50px;
+    margin-top: -20px;
+  }
+  .benhxahoi .cardlayoutxh .card .card-block{
+    width: 110px;
+    text-align: center;
+    margin-left: -20px;
+  }
+  .benhxahoi .cardlayoutxh h4.card-title{
+    font-size: 14px;
+    text-align: center;
+    font-weight: bolder;
+    width: 110px;
+    height: 20px;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    font-size: 9px;
+    width: 80px;
+    height: 28px;
+  }
+  /*NGOAIKHOA 320 PIXELS CONFIG*/
+  .ngoaikhoa .intro-content span{
+    display: none;
+  }
+  .ngoaikhoa .intro-content p{
+    font-size: 22px;
+    margin-top: 50px;
+    width: 300px;
+    margin-left: -35px;
+    margin-bottom: -50px;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    width: 110px;
+    height: 133px;
+    margin-bottom: 20px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-img-top{
+    width: 50px;
+    margin-top: -20px;
+  }
+  .ngoaikhoa .cardlayoutnk .card .card-block{
+    width: 110px;
+    text-align: center;
+    margin-left: -20px;
+  }
+  .ngoaikhoa .cardlayoutnk h4.card-title{
+    font-size: 14px;
+    text-align: center;
+    font-weight: bolder;
+    width: 110px;
+    height: 20px;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    font-size: 9px;
+    width: 80px;
+    height: 28px;
+  }
+
+  /*DOCTORLIST 320 PIXELS CONFIG*/
+  .intro-content-footer p{
+    margin-top: 55px;
+  }
+}

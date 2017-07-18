@@ -1,0 +1,5 @@
+@media only screen and (min-width: 540px) and (max-width: 740) and (min-height: 340) and (max-height: 540){
+  .header .intro-content img{
+    display: none;
+  }
+}
