@@ -1,0 +1,67 @@
+@media screen and (max-width: 600px) and (min-height :940px){
+  .header .intro-content img{
+
+  }
+  .intro-content span{
+    font-size: 20px;
+  }
+  .namkhoa .gapbacsi{
+    margin-bottom: -20px;
+  }
+  .namkhoa .cardlayout .card{
+    margin-bottom: 0px;
+    margin-left: -20px;
+    height: 170px;
+  }
+  .namkhoa .cardlayout button.btn.btn-primary-outline{
+    font-size: 12px;
+    width: 130px;
+    height: 28px;
+  }
+  .phukhoa .gapbacsi{
+    margin-left: 80px;
+    margin-bottom: -20px;
+  }
+  .phukhoa .gapbacsi{
+    margin-bottom: -20px;
+  }
+  .phukhoa .cardlayoutpk .card{
+    margin-bottom: 10px;
+    margin-left: -20px;
+    height: 170px;
+  }
+.phukhoa .cardlayoutpk button.btn.btn-primary-outline{
+    font-size: 12px;
+    width: 130px;
+    height: 28px;
+  }
+
+
+  .benhxahoi .gapbacsi{
+    margin-bottom: -20px;
+  }
+  .benhxahoi .cardlayoutxh .card{
+    margin-bottom: 0px;
+    margin-left: -20px;
+    height: 170px;
+  }
+  .benhxahoi .cardlayoutxh button.btn.btn-primary-outline{
+    font-size: 12px;
+    width: 130px;
+    height: 28px;
+  }
+
+  .ngoaikhoa .gapbacsi{
+    margin-bottom: 0px;
+  }
+  .ngoaikhoa .cardlayoutnk .card{
+    margin-bottom: 10pxpx;
+    margin-left: -20px;
+    height: 170px;
+  }
+  .ngoaikhoa .cardlayoutnk button.btn.btn-primary-outline{
+    font-size: 12px;
+    width: 130px;
+    height: 28px;
+  }
+}

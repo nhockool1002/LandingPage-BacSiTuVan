@@ -16,6 +16,9 @@
 <link rel="stylesheet" href="lib/300320.css">
 <link rel="stylesheet" href="lib/321380.css">
 <link rel="stylesheet" href="lib/380480.css">
+<link rel="stylesheet" href="lib/w740h340.css">
+<link rel="stylesheet" href="lib/w580h980.css">
+<link rel="stylesheet" href="lib/w580h300.css">
 <link rel="stylesheet" href="lib/landscapesmall.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>

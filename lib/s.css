@@ -1,0 +1,175 @@
+@media screen and (max-width: 580px) and (min-height :300px){
+    .header .intro-content img{
+      display: none;
+    }
+    .infopage{
+      display: none;
+    }
+    .gapbacsi{
+      display: none;
+    }
+  .slideinpage{
+      display: none;
+    }
+    .intro-content span{
+      font-size: 16px;
+    }
+    .intro .intro-content p{
+      margin-top: 50px;
+      font-size: 18px;
+      font-weight:  bolder;
+    }
+
+    /*NAMKHOA 480 PIXELS CONFIG*/
+
+        .namkhoa .intro-content p{
+          font-size: 22px;
+          margin-top: 50px;
+          margin-bottom: -60px;
+        }
+        .namkhoa .intro-content span{
+        display: none;
+      }
+      .namkhoa .cardlayout .card{
+        width: 250px;
+        height: 70px;
+        margin-top: -12px;
+      }
+      .namkhoa .cardlayout .card .card-img-top{
+        width: 50px;
+        margin-top: -10px;
+        margin-left: -150px;
+      }
+      .namkhoa .cardlayout .card .card-block{
+        width: 200px;
+        text-align: center;
+        margin-left: 30px;
+        margin-top: -60px;
+      }
+      .namkhoa .cardlayout h4.card-title{
+        font-size: 14px;
+        text-align: center;
+        font-weight: bolder;
+        width: 200px;
+        height: 10px;
+      }
+      .namkhoa .arrow img{
+        margin-left: 25px;
+        width: 40px;
+      }
+
+
+
+      .phukhoa .intro-content p{
+        font-size: 22px;
+        margin-top: 50px;
+        margin-bottom: -60px;
+      }
+      .phukhoa .intro-content span{
+      display: none;
+    }
+    .phukhoa .cardlayoutpk .card{
+      width: 250px;
+      height: 70px;
+      margin-top: -12px;
+    }
+    .phukhoa .cardlayoutpk .card .card-img-top{
+      width: 50px;
+      margin-top: -10px;
+      margin-left: -150px;
+    }
+    .phukhoa .cardlayoutpk .card .card-block{
+      width: 200px;
+      text-align: center;
+      margin-left: 30px;
+      margin-top: -60px;
+    }
+    .phukhoa .cardlayoutpk h4.card-title{
+      font-size: 14px;
+      text-align: center;
+      font-weight: bolder;
+      width: 200px;
+      height: 10px;
+    }
+    .phukhoa .arrow img{
+      margin-left: 25px;
+      width: 40px;
+    }
+
+
+
+          .benhxahoi .intro-content p{
+            font-size: 22px;
+            margin-top: 50px;
+            margin-bottom: -60px;
+          }
+          .benhxahoi .intro-content span{
+          display: none;
+        }
+        .benhxahoi .cardlayoutxh .card{
+          width: 250px;
+          height: 70px;
+          margin-top: -12px;
+        }
+        .benhxahoi .cardlayoutxh .card .card-img-top{
+          width: 50px;
+          margin-top: -10px;
+          margin-left: -150px;
+        }
+        .benhxahoi .cardlayoutxh .card .card-block{
+          width: 200px;
+          text-align: center;
+          margin-left: 30px;
+          margin-top: -60px;
+        }
+        .benhxahoi .cardlayoutxh h4.card-title{
+          font-size: 14px;
+          text-align: center;
+          font-weight: bolder;
+          width: 200px;
+          height: 10px;
+        }
+        .benhxahoi .arrow img{
+          margin-left: 25px;
+          width: 40px;
+        }
+
+
+
+        .ngoaikhoa .intro-content p{
+          font-size: 22px;
+          margin-top: 50px;
+          margin-bottom: -60px;
+        }
+        .ngoaikhoa .intro-content span{
+        display: none;
+      }
+      .ngoaikhoa .cardlayoutnk .card{
+        width: 250px;
+        height: 70px;
+        margin-top: -12px;
+      }
+      .ngoaikhoa .cardlayoutnk .card .card-img-top{
+        width: 50px;
+        margin-top: -10px;
+        margin-left: -150px;
+      }
+      .ngoaikhoa .cardlayoutnk .card .card-block{
+        width: 200px;
+        text-align: center;
+        margin-left: 30px;
+        margin-top: -60px;
+      }
+      .ngoaikhoa .cardlayoutnk h4.card-title{
+        font-size: 14px;
+        text-align: center;
+        font-weight: bolder;
+        width: 200px;
+        height: 10px;
+      }
+      .ngoaikhoa .arrow img{
+        margin-left: 25px;
+        width: 40px;
+      }
+
+}
